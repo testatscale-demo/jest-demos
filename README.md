@@ -3,7 +3,7 @@
 This is an example project for Jest tests written in JavaScript and running on Node.js.
 Run tests by simply running the `npm test` command from the project root directory.
 
-## Running locally
+## Running locally 
 
 Run the following commands to setup the repository locally.
 
